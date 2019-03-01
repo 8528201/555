@@ -1,0 +1,6 @@
+<?php
+
+		function gateio_query($path, array $req = array()) {
+			// API settings, add your Key and Secret at here
+			$key = '7F1A20A8-810A-45C5-8CCB-CB2220B4C3CF';
+			$secret = '0c3f31741e99779150b78232c61dbac52084c9f92424d83150c049c00dc01cc5';
